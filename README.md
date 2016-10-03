@@ -7,4 +7,6 @@ Heres that sentence
 here it is my friend.
 yes it is coool
 
+sup new changes late night 10/2
+
 i'm adding this from my fake virtual home machine
