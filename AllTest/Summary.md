@@ -1,5 +1,6 @@
 * [Foo.html](Foo.html)
 * [GoogleDriveGitZip.html](GoogleDriveGitZip.html)
+* [WalkingMap.html](WalkingMap.html)
 * [index.html](index.html)
 * [jimimozart.html](jimimozart.html)
 * [master-list.html](master-list.html)
